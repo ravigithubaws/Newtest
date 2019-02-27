@@ -1,2 +1,2 @@
 # Newtest
-New_test
+New_test repo for git commands on demonstration
